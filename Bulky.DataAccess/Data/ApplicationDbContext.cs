@@ -1,4 +1,4 @@
-﻿using BulkyWeb.Models;
+﻿using Bulky.Models;
 using Microsoft.EntityFrameworkCore;
 using System.ComponentModel;
 
